@@ -5,4 +5,4 @@
 
 - Involves the classification of different human activity (Laying, Standing, Sitting, Walking, Walking_downstairs, Walking_Upstairs)
 - Preprocessing: null value removal,Feature engineering (pcA)
-models:Logistic regression, Random Forest, SVM, Decision trees, ANN, Hyper paramter tuning 
+- Models:Logistic regression, Random Forest, SVM, Decision trees, ANN, Hyper paramter tuning 
